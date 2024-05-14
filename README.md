@@ -1,1 +1,1 @@
-# Statistic-Calculator
+# Statistics-Calculator
